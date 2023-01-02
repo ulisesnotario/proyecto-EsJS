@@ -1,0 +1,16 @@
+{
+  "name": "@es-js/crear-terminal-app",
+  "version": "0.0.1",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "@es-js/core": "^0.0.7",
+    "@es-js/terminal": "^0.0.7",
+    "@es-js/vite-plugin-esjs": "^0.0.7",
+    "vite": "^3.2.5"
+  }
+}
